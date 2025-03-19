@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 ### 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
 💻 **Engenheiro de Software ** apaixonado por tecnologia e IA
@@ -15,5 +14,3 @@
 📫 **Como me encontrar**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-cust%C3%B3dio-calixto/)  
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:custodiojoaopedro@gmail.com)  
-
--->
