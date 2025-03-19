@@ -2,7 +2,7 @@
 
 ### 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
-💻 **Engenheiro de Software ** apaixonado por tecnologia e IA
+💻 Engenheiro de Software **apaixonado por tecnologia e IA**
 🔭 Atualmente estou trabalhando no **Pra Familia Beneficios**
 🌱 Atualmente estou estudando  **Dart, Flutter, Python e JavaScript**  
 
