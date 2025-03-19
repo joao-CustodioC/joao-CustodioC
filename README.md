@@ -2,9 +2,9 @@
 
 ### 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
-💻 Engenheiro de Software **apaixonado por tecnologia e IA**
-🔭 Atualmente estou trabalhando no **Pra Familia Beneficios**
-🌱 Atualmente estou estudando  **Dart, Flutter, Python e JavaScript**  
+- 💻 Engenheiro de Software **apaixonado por tecnologia e IA**
+- 🔭 Atualmente estou trabalhando no **Pra Familia Beneficios**
+- 🌱 Atualmente estou estudando  **Dart, Flutter, Python e JavaScript**  
 
 🛠️ **Projetos em Destaque**  
 - 🔗 [Conexão Solidária](https://github.com//joao-CustodioC/conexao-solidaria) – Conectando voluntários a instituições de caridade  
