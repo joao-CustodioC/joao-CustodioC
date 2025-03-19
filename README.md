@@ -29,11 +29,6 @@ Sou Engenheiro de Software apaixonado por tecnologia, inteligência artificial e
 
 ---
 
-## 📈 Estatísticas do GitHub  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-CustodioC&layout=compact&theme=radical)
-
----
-
 ## 📬 Como Me Encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-cust%C3%B3dio-calixto/)  [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:custodiojoaopedro@gmail.com)
 
