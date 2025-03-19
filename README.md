@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### 👋 Olá! Bem-vindo ao meu perfil no GitHub!
 
 - 💻 Engenheiro de Software **apaixonado por tecnologia e IA**
